@@ -5,6 +5,7 @@ permalink: /cv-json/
 author_profile: false
 redirect_from:
   - /resume-json
+show_on_list: false
 ---
 
 {% include base_path %}

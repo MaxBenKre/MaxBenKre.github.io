@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
+show_on_list: false
 ---
 
 This is a page not in the menu. You can use markdown in this page.
